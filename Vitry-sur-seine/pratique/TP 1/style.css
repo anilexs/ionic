@@ -1,0 +1,17 @@
+ion-footer{
+    width: 100%;
+    display: flex;
+    position: fixed;
+    bottom: 0;
+}
+.iconmenu{
+    font-size: 30px;
+    margin-top: 5px;
+}
+.h1{
+    margin-left: 10px;
+}
+.footer{
+    margin-left: 10px;
+    font-size: 25px;
+}
